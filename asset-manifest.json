@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ProjectsShowcase-ReactJS/static/css/main.228f2187.chunk.css",
+    "main.js": "/ProjectsShowcase-ReactJS/static/js/main.ba758c0d.chunk.js",
+    "main.js.map": "/ProjectsShowcase-ReactJS/static/js/main.ba758c0d.chunk.js.map",
+    "runtime-main.js": "/ProjectsShowcase-ReactJS/static/js/runtime-main.98fd190a.js",
+    "runtime-main.js.map": "/ProjectsShowcase-ReactJS/static/js/runtime-main.98fd190a.js.map",
+    "static/js/2.2f22ea2f.chunk.js": "/ProjectsShowcase-ReactJS/static/js/2.2f22ea2f.chunk.js",
+    "static/js/2.2f22ea2f.chunk.js.map": "/ProjectsShowcase-ReactJS/static/js/2.2f22ea2f.chunk.js.map",
+    "index.html": "/ProjectsShowcase-ReactJS/index.html",
+    "static/css/main.228f2187.chunk.css.map": "/ProjectsShowcase-ReactJS/static/css/main.228f2187.chunk.css.map",
+    "static/js/2.2f22ea2f.chunk.js.LICENSE.txt": "/ProjectsShowcase-ReactJS/static/js/2.2f22ea2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98fd190a.js",
+    "static/js/2.2f22ea2f.chunk.js",
+    "static/css/main.228f2187.chunk.css",
+    "static/js/main.ba758c0d.chunk.js"
+  ]
+}
